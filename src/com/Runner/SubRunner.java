@@ -3,6 +3,12 @@ package com.Runner;
 public class SubRunner {
 
 	
+ List<String> cmd;
+	
+	
+ String classpath ="";
+ 
+ 
 
 
 
