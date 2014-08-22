@@ -6,7 +6,8 @@ public class SubRunner {
 
 
 
-/*
+/* 
+ http://lempel.egloos.com/viewer/10961361
 List<String> cmd = new ArrayList<String>();
 
 cmd.add("java");
